@@ -3,10 +3,11 @@
   <groupId>org.filirom1</groupId>
   <artifactId>web-capture</artifactId>
   <versioning>
-    <release>0.1</release>
+    <release>0.1.1</release>
     <versions>
       <version>0.1</version>
+      <version>0.1.1</version>
     </versions>
-    <lastUpdated>20110506102151</lastUpdated>
+    <lastUpdated>20110506120007</lastUpdated>
   </versioning>
 </metadata>
